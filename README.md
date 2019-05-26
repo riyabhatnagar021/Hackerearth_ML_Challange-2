@@ -1,4 +1,4 @@
-# Prediction_for-_funding_project
+# Hackerearth ML Challange # 2
 <b>Problem Statement</b>
 
 Kickstarter is a community of more than 10 million people comprising of creative, tech enthusiasts who help in bringing creative project to life. Till now, more than $3 billion dollars have been contributed by the members in fuelling creative projects. The projects can be literally anything – a device, a game, an app, a film etc.
