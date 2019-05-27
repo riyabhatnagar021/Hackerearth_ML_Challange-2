@@ -16,6 +16,3 @@ There are three files given to download: train.csv, test.csv and sample_submissi
 
 Predict if a project will get successfully funded or not.
 
-<b> Accuracy Achieved</b>
-
-66.16%
